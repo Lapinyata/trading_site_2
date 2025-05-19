@@ -1,0 +1,29 @@
+[
+  {
+    "name": "BRENT • Нефть Brent",
+    "move": 0,
+    "type": "Энергоносители",
+    "price": 6443,
+    "forecast1": -1.63,
+    "forecast2": -0.02,
+    "image": "img/Brent/preview.svg"
+  },
+  {
+    "name": "COPPER • Медь",
+    "move": 1,
+    "type": "Металлы",
+    "price": 450,
+    "forecast1": -0.1,
+    "forecast2": -0.21,
+    "image": "img/Copper/preview.svg"
+  },
+  {
+    "name": "GC • Gold",
+    "move": 1,
+    "type": "Металлы",
+    "price": 1000,
+    "forecast1": 0.3,
+    "forecast2": 0.32,
+    "image": "img/Gold/preview.svg"
+  }
+]
